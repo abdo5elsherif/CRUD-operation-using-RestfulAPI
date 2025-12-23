@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\bin\Debug\net8.0\StudentAPIBusineesLayer.deps.json
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\bin\Debug\net8.0\StudentAPIBusineesLayer.dll
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\bin\Debug\net8.0\StudentAPIBusineesLayer.pdb
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentA.BCAA4100.Up2Date
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.dll
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\refint\StudentAPIBusineesLayer.dll
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\StudentAPIBusineesLayer.pdb
+C:\Users\Hp\source\repos\StudentAPIBusineesLayer\obj\Debug\net8.0\ref\StudentAPIBusineesLayer.dll
